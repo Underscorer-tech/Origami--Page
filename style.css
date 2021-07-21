@@ -1,0 +1,299 @@
+body {
+
+    background-color: whitesmoke;
+    margin-left:30px;
+    margin-right:30px;
+
+}
+
+
+
+.animals {
+
+    display        : flex;
+    justify-content: space-around;
+
+}
+
+.a2 {
+
+    display        : flex;
+    justify-content: space-evenly;
+    margin-top     : 15px;
+
+}
+
+#camel {
+
+    background-color: #fff;
+
+    width: 310px;
+
+}
+
+#chameleon {
+
+    background-color: #fff;
+
+    width: 310px;
+
+}
+
+
+
+#chameleon img {
+
+    border       : solid;
+    border-color : #000000;
+    border-radius: 10%;
+    margin-left  : 50px;
+
+
+}
+
+#camel img {
+
+    border       : solid;
+    border-color : #000000;
+    border-radius: 10%;
+    margin-left  : 50px;
+
+}
+
+#pigeon {
+
+    background-color: #fff;
+    margin-left     : 0px;
+    width           : 310px;
+    justify-content : flex-end;
+
+}
+
+#pigeon img {
+
+    border       : solid;
+    border-color : #000000;
+    border-radius: 10%;
+    margin-left  : 50px;
+
+}
+
+#bear {
+
+    background-color: #fff;
+    width           : 310px;
+    justify-content : flex-end;
+
+}
+
+#bear img {
+
+    border       : solid;
+    border-color : #000000;
+    border-radius: 10%;
+    margin-left  : 50px;
+
+}
+
+#panda {
+
+    background-color: #fff;
+    width           : 310px;
+
+
+}
+
+#panda img {
+
+    border       : solid;
+    border-color : #000000;
+    border-radius: 10%;
+    margin-left  : 50px;
+
+}
+
+#frog {
+
+    background-color: #fff;
+    width           : 310px;
+
+}
+
+#frog img {
+
+    border       : solid;
+    border-color : #000000;
+    border-radius: 10%;
+    margin-left  : 40px;
+    height       : 190px;
+    width        : 220px;
+
+}
+
+#cicada {
+
+    background-color: #fff;
+    width           : 310px;
+
+}
+
+#cicada img {
+
+    border       : solid;
+    border-color : #000000;
+    border-radius: 10%;
+    margin-left  : 40px;
+    height       : 190px;
+    width        : 220px;
+
+}
+
+
+
+#dog {
+
+    background-color: #fff;
+    width           : 310px;
+
+}
+
+#dog img {
+
+    border       : solid;
+    border-color : #000000;
+    border-radius: 10%;
+    margin-left  : 40px;
+    height       : 190px;
+    width        : 220px;
+
+}
+
+.animals div:hover {
+
+    transform   : scale(1.2);
+    box-shadow  : -20px 10px 20px rgba(0, 0, 0, 0.19), 10px 6px 6px rgba(0, 0, 0, 0.23);
+    border      : solid;
+    border-color: #808080;
+
+}
+
+.a2 div:hover {
+
+    transform   : scale(1.2);
+    box-shadow  : -20px 10px 20px rgba(0, 0, 0, 0.19), 10px 6px 6px rgba(0, 0, 0, 0.23);
+    border      : solid;
+    border-color:#808080;
+
+
+}
+
+#dog li {
+
+    padding: 10px;
+
+}
+
+#chameleon li {
+
+    padding: 10px;
+
+}
+
+#dog li {
+
+    padding: 10px;
+
+}
+
+#frog li {
+
+    padding: 10px;
+
+}
+
+#camel li {
+
+    padding: 10px;
+
+}
+
+
+#cicada li {
+
+    padding: 10px;
+
+}
+
+#panda li {
+
+    padding: 10px;
+
+}
+
+#bear li {
+
+    padding: 10px;
+
+}
+
+#pigeon li{
+
+    padding: 10px;
+    
+    }
+
+    #linkc{
+
+   padding-left: 55px;
+
+    }
+
+    #linkc a:link{
+
+   color:limegreen
+
+    }
+
+    #linkc a:visited{
+
+     color:orangered
+
+    }
+
+    #headimg img{
+
+    position: relative;    
+    width: 1290px;    
+    height: 300px;
+
+    }
+
+
+    h1{
+
+   position:absolute;     
+   color: white;
+   font-family: fantasy;
+   top:5%;
+   right: 34%;
+   font-size:xx-large;
+
+    }
+
+   .btext {
+
+    color: white;
+    position: absolute;    
+    top: 17%;
+    text-align: center;
+    left: 10% ;
+    font-family: 'Courier New', Courier, monospace;
+
+    }
+
+    #linkc a{
+
+   text-decoration: none;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    }
